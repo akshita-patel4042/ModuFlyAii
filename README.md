@@ -1,2 +1,3 @@
 # ModuFlyAii
-digital monitoring of fly
+
+AI-powered modular Black Soldier Fly waste management dashboard
